@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://baggottsbots.github.io/pink-shared-styles/</loc>
+    <lastmod>2026-06-15T00:59:14.624Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://baggottsbots.github.io/pink-shared-styles/event/</loc>
     <lastmod>2026-06-15T00:58:07.996Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -8,11 +13,6 @@
   <url>
     <loc>https://baggottsbots.github.io/pink-shared-styles/agency/</loc>
     <lastmod>2026-06-15T00:57:59.497Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://baggottsbots.github.io/pink-shared-styles/</loc>
-    <lastmod>2026-06-15T00:57:52.166Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
